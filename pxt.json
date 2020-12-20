@@ -6,7 +6,9 @@
         "radio": "*",
         "microphone": "*",
         "servo": "*",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6"
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.7",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5"
     },
     "files": [
         "main.blocks",
